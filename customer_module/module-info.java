@@ -1,0 +1,3 @@
+module customer_module {
+
+}
