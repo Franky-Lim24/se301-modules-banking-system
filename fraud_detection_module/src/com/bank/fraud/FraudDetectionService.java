@@ -1,5 +1,5 @@
-// package com.bank.fraud;
+package com.bank.fraud;
 
-// public interface FraudDetectionService {
-// void detectFraud();
-// }
+public interface FraudDetectionService {
+  void detectFraud();
+}
