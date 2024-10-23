@@ -1,9 +1,9 @@
-// package com.bank.customer;
+package com.bank.customer;
 
-// public class SensitiveCustomerData {
-// private String encryptedDetails = "Encrypted Customer Data";
+public class SensitiveCustomerData {
+  private String encryptedDetails = "Encrypted Customer Data";
 
-// public String getEncryptedDetails() {
-// return encryptedDetails;
-// }
-// }
+  public String getEncryptedDetails() {
+    return encryptedDetails;
+  }
+}
